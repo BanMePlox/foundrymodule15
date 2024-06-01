@@ -1,0 +1,18 @@
+{
+  "id": "narutodamages",
+  "title": "Nuevos tipos de dolores provocados.",
+  "description": "No voy a currarme esto",
+  "authors": [
+    {
+    "name": "Mukito"
+    }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "11"
+  }
+"esmodules": [
+  "scripts/damages.js"
+]
+}
