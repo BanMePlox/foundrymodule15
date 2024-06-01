@@ -1,4 +1,5 @@
 // Adds a new Naruto damages type that will be selectable as a new type of damage for weapons and a new type of resistance for actors.
+console.log("Funcional");
 Hooks.once("init", () => {
     CONFIG.DND5E.damageTypes.chakra = {
       label: "Chakra",
